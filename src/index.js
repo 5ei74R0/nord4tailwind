@@ -1,7 +1,7 @@
 const plugin = require('tailwindcss/plugin')
 import nordColorScheme from './colors'
 
-nord4TailwindPlugin = plugin(function ({ theme }) {
+module.exports = plugin(function ({ theme }) {
 
 }, {
     theme: {
@@ -12,5 +12,3 @@ nord4TailwindPlugin = plugin(function ({ theme }) {
         }
     }
 })
-
-module.exports = nord4TailwindPlugin
