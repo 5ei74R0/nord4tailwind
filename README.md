@@ -14,7 +14,7 @@ HumanReadable and robust **Nord color palette** plugin for **Tailwind CSS**
 <br/>
 
 ## Installation + Setup (Just 2 steps to complete!!)
-1. Run `npm install git+https://git@github.com/5ei74R0/nord4tailwind.git#2ee654099da19e596b86b4c79c484193d1c9549c` in your Tailwind CSS project directory to install.
+1. Run `npm install git+https://github.com/5ei74R0/nord4tailwind/tree/v0.2.1` in your Tailwind CSS project directory to install.
 
 1. Then add this plugin to your `tailwind.config.js` file:
 
@@ -222,7 +222,10 @@ Nord is **a color palette inspired by the arctic north**. It's a soft, warm, and
 
 ## Tailwind CSS ([c.f.](https://tailwindcss.com/))
 <p align="center">
-<img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="25%"/><br/>
+<img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="25%"/>
 </p>
+
+<br/>
+
 As you know, Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. It's a great tool for building responsive, mobile-first projects on the web.
 
