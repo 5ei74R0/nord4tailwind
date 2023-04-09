@@ -1,14 +1,14 @@
 const plugin = require('tailwindcss/plugin')
 import {
-    nordColorsComprehensive,
     nordColorsDefaultName,
     nordColorsDefaultNumbering,
+    nordColorsHumanReadable,
 } from './src/colors.js';
 
 const nordColorsForTailwind = {
     ...nordColorsDefaultName,
     nord: {
-        ...nordColorsComprehensive,
+        ...nordColorsHumanReadable,
         ...nordColorsDefaultNumbering,
     },
 };

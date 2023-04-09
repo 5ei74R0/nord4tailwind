@@ -1,6 +1,6 @@
-// Comprehensive & robust name definitions to use Nord color palette in your tailwindcss projects.
+// HumanReadable & robust name definitions to use Nord color palette in your tailwindcss projects.
 
-const nordColorsComprehensive = {
+const nordColorsHumanReadable = {
     'night': {
         0: '#2E3440',
         1: '#3B4252',
@@ -66,7 +66,7 @@ const nordColorsDefaultName = {
 };
 
 export default {
-    nordColorsComprehensive,
+    nordColorsHumanReadable,
     nordColorsDefaultNumbering,
     nordColorsDefaultName,
 };
