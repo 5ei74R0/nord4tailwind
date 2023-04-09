@@ -14,7 +14,7 @@ HumanReadable and robust **Nord color palette** plugin for **Tailwind CSS**
 <br/>
 
 ## Installation + Setup (Just 2 steps to complete!!)
-1. Run `npm install git+https://github.com/5ei74R0/nord4tailwind/tree/v0.2.1` in your Tailwind CSS project directory to install.
+1. Run `npm install git+https://github.com/5ei74R0/nord4tailwind/tree/v1.0.0` in your Tailwind CSS project directory to install.
 
 1. Then add this plugin to your `tailwind.config.js` file:
 
@@ -208,6 +208,16 @@ We defined human-readable name for each color. It is easier to tell what color i
 <p align="center">
 <img src="./assets/B48EAD.svg" width="50%"/>
 </p>
+
+<br/>
+
+## Gallery
+- Screenshot of Tailwind Viewer (Launched locally by `npm run dev` command in Nuxt3+TailwindCSS project)
+<p align="center">
+<img src="./assets/screenshot-tailwind-viewer.png" width="80%" style="border-radius:2%"/>
+</p>
+<br/>
+
 
 <br/>
 

@@ -1,6 +1,6 @@
 {
   "name": "nord4tailwind",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "HumanReadable and robust Nord color palette plugin for Tailwind CSS",
   "main": "index.js",
   "scripts": {
