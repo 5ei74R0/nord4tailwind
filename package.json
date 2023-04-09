@@ -1,11 +1,14 @@
 {
   "name": "nord4tailwind",
   "version": "0.2.0",
-  "description": "Comprehensive and robust Nord color palette plugin for tailwindcss",
+  "description": "HumanReadable and robust Nord color palette plugin for Tailwind CSS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "src"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/5ei74R0/nord4tailwind.git"
