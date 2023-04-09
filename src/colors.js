@@ -1,4 +1,4 @@
-// Comprehensive and robust name definitions to use Nord color palette in your tailwindcss projects.
+// Comprehensive & robust name definitions to use Nord color palette in your tailwindcss projects.
 
 const nordColorsComprehensive = {
     'night': {
@@ -44,7 +44,7 @@ const nordColorsDefaultNumbering = {
     13: '#EBCB8B',
     14: '#A3BE8C',
     15: '#B48EAD',
-}
+};
 
 const nordColorsDefaultName = {
     'nord0': '#2E3440',
@@ -63,15 +63,10 @@ const nordColorsDefaultName = {
     'nord13': '#EBCB8B',
     'nord14': '#A3BE8C',
     'nord15': '#B48EAD',
-}
+};
 
-const nordColorScheme = {
+export default {
+    nordColorsComprehensive,
+    nordColorsDefaultNumbering,
     nordColorsDefaultName,
-    nord: {
-        nordColorsDefaultNumbering,
-        nordColorsComprehensive,
-    },
-}
-
-export default nordColorScheme
-
+};
