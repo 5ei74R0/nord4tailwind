@@ -1,0 +1,28 @@
+{
+  "name": "nord4tailwind",
+  "version": "0.1.0",
+  "description": "Comprehensive and robust Nord color palette plugin for tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5ei74R0/nord4tailwind.git"
+  },
+  "keywords": [
+    "nord",
+    "tailwind",
+    "tailwindcss",
+    "plugin"
+  ],
+  "author": "Seitaro OTSUKI",
+  "license": "BSD-3-Clause-Clear",
+  "bugs": {
+    "url": "https://github.com/5ei74R0/nord4tailwind/issues"
+  },
+  "homepage": "https://github.com/5ei74R0/nord4tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
