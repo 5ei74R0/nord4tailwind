@@ -4,13 +4,6 @@ HumanReadable and robust **Nord color palette** plugin for **Tailwind CSS**
 <br/>
 <p align="center"><b>❄Nordify your Tailwind CSS project❄</b></p>
 
-<p align="center">
-<img src="./assets/nordifiedtailwindcss.svg" width="80%"/>
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer/light/spaced.svg?sanitize=true" width="100%"/>
-</p>
-
 <br/>
 
 ## Installation + Setup (Just 2 steps to complete!!)
@@ -71,7 +64,7 @@ We defined human-readable name for each color. It is easier to tell what color i
 
 </details><br/>
 
-### Official color name like `nord0` (c.f., [Nord documentation](https://www.nordtheme.com/docs/colors-and-palettes))
+### Official color name like `nord0` (cf., [Nord documentation](https://www.nordtheme.com/docs/colors-and-palettes))
 
 <details><summary><em>[list: click to expand]</em></summary>
 
@@ -221,7 +214,7 @@ We defined human-readable name for each color. It is easier to tell what color i
 
 <br/>
 
-## Nord ([c.f.](https://www.nordtheme.com/))
+## Nord ([cf.](https://www.nordtheme.com/))
 <p align="center">
 <img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/logos/heroes/logo-typography/light/frostic/nord6/spaced.svg?sanitize=true" width="25%"/>
 </p>
@@ -230,7 +223,7 @@ Nord is **a color palette inspired by the arctic north**. It's a soft, warm, and
 
 <br/>
 
-## Tailwind CSS ([c.f.](https://tailwindcss.com/))
+## Tailwind CSS ([cf.](https://tailwindcss.com/))
 <p align="center">
 <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="25%"/>
 </p>
